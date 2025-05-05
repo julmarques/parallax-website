@@ -94,7 +94,7 @@ a {
     font-size: 1.7;
     color: #fff;
     padding: 10px;
-    box-shadow: inset 1px 1px 12px 5px #282e34b6;
+    background-color: #66666675;
     position: absolute;
     left: 50%;
     top: 50%;
