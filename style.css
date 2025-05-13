@@ -27,7 +27,7 @@ a {
 }
 
 .normal {
-    padding: 60px 80px;
+    padding: 60px 70px;
     text-align: justify;
     line-height: 1.8em;
 }
@@ -42,7 +42,7 @@ a {
 }
 
 .imagem {
-    background: #fff bottom center no-repeat fixed;
+    background: #fff top center no-repeat fixed;
     background-size: cover;
     position: relative;
 }
@@ -55,8 +55,8 @@ a {
     transform: translate(-50%, -50%);
 }
 
-#img1 {
-    background-image: url('imagens/san-francisco01.jpg');
+#img1, #img4 {
+    background-image: url('imagens/arch-6356637_1920.jpg');
     min-height: 100vh;
 }
 
@@ -66,9 +66,8 @@ a {
     width: 350px;
 }
 
-
 #img2 {
-    background-image: url('imagens/san-francisco02.jpg');
+    background-image: url('imagens/eiffel-tower-3349075_1920.jpg');
     min-height: 40vh;
 }
 
@@ -79,7 +78,7 @@ a {
 }
 
 #img3{
-    background-image: url('imagens/san-francisco03.jpg');
+    background-image: url('imagens/paris-3195914_1920.jpg');
     min-height: 40vh;
 }
 
@@ -88,9 +87,4 @@ a {
     font-size: 1.7;
     color: #fff;
     background-color: #66666675;
-}
-
-#img4 {
-    background-image: url('imagens/san-francisco04.jpg');
-    min-height: 100vh;
 }
